@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+#html_text {
+  font-size: 2rem;
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  font-size: 1rem;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px solid black;
+}
+
+.button_div {
+  margin: 30px;
+}
